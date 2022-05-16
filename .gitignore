@@ -1,0 +1,8 @@
+.vscode
+project
+blog_project.*
+*.pem
+*.lnk
+django_docker_aws
+/3-DevOps/week2/workshop2
+azure_faas
